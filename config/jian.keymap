@@ -244,12 +244,12 @@
         vukeys_to_ua {
             bindings = <&m_f14_ua>;
             key-positions = <40 41>;
-            layers = <0 1 2>;
+            layers = <0>;
         };
 
         ua_to_vukeys {
             bindings = <&m_f14_vukeys>;
-            key-positions = <40 41>;
+            key-positions = <41 40>;
             layers = <1>;
         };
     };

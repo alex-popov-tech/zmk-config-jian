@@ -19,7 +19,9 @@
 include:
   - board: nrfmicro_13
     shield: jian_left
+    artifact-name: jian_left
   - board: nrfmicro_13
     shield: jian_right
+    artifact-name: jian_right
   - board: nice_nano_v2
     shield: settings_reset
